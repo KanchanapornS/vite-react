@@ -7,7 +7,7 @@ const RightSection = () => {
           <Experience />
           <div >Experience</div>
           <div >Experience</div>
-          <div >Experience</div>
+          <div >Project</div>
       </div>
     )
 }
